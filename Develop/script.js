@@ -6,6 +6,16 @@ $(".btn").on("click",function(event){ // add event click listener -- specifies w
     localStorage.setItem(hour,usePlan) // added localStorage
 });
 
+var currentHour = moment().hours() // current time
+console.log(currentHour)
+
 for(let i=9;i<=17;i++){ // create for loop to display localStorage from textarea after refreshing
     $("#"+i+"-planner").val(localStorage.getItem(i)) // targets each textarea based on #id-planner
-}
+    if (currentHour<i) { // checking time block if it's past, present, future
+        $("#"+i+"-planner").addClass("bg-success")
+    } else if (i === currentHour) {
+        $("#"+i+"-planner").addClass("bg-info")
+    } else {
+        $("#"+i+"-planner").addClass("bg-warning")
+    }
+};
