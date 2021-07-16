@@ -52,6 +52,6 @@ The challenge was to create a simple calendar application that allows a user to 
 
 #### Screenshots:
 
-![Screenshot 1](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-1.JPG)
-![Screenshot 2](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-2.JPG)
-![Screenshot 3](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-3.JPG)
+![Screenshot 1](https://github.com/eisforgene/super-disco/blob/main/assets/images/screenshot-1.JPG)
+![Screenshot 2](https://github.com/eisforgene/super-disco/blob/main/assets/images/screenshot-2.JPG)
+![Screenshot 3](https://github.com/eisforgene/super-disco/blob/main/assets/images/screenshot-3.JPG)
