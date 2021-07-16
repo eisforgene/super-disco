@@ -23,3 +23,4 @@ for(let i=9;i<=17;i++){ // create for loop to display localStorage from textarea
 var timer = setInterval(function(){ // display current time function
     $("#currentDay").text(moment()) // display function in p based on id, displays text in moment.js
 },1000)
+
