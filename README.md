@@ -39,10 +39,10 @@ Repository contains a high-quality README file with description, screenshot, and
 Eugene Lee
 
 #### Languanges:
-HTML, Javascript, Bootstrap, Moment
+HTML, Javascript, Bootstrap, Moment.js, jQuery
 
 ## Description:
-This challenge invites us to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that we write. 
+The challenge was to create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 #### References:
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
@@ -50,9 +50,8 @@ This challenge invites us to build a timed coding quiz with multiple-choice ques
 [JavaScript](https://developer.mozilla.org/en-US/) 
 [Moment](https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js)
 
-
 #### Screenshots:
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
+![Screenshot 1](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-1.JPG)
+![Screenshot 2](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-2.JPG)
+![Screenshot 3](https://github.com/eisforgene/super-disco/blob/main/Develop/images/screenshot-3.JPG)
